@@ -1,0 +1,84 @@
+#centerDiv{
+  border: 5px dashed black;
+}
+a{
+  text-decoration: none;
+  font-family: monospace;
+  color: aqua;
+}
+#title{
+  font-size: 50px;
+  color: white;
+  font-family: funFont;
+}
+#detail{
+  fontsize: 15px;
+  color: ;
+  font-family: cursive;
+}
+#detail2{
+  fontsize: 20px;
+  color: ;
+  font-family: cursive;
+}
+#detail3{
+  fontsize: 15px;
+  color: ;
+  font-family: cursive;
+}
+body{
+  background-color:#3386C4;
+}
+#leftDiv{
+  border: 5px dashed black;
+}
+#rightDiv{
+  border: 5px dashed black;
+}
+#a1{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+#a2{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+#a3{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+#site{
+  color: white;
+  font-size: 50px;
+  font-family: cursive;
+}
+p{
+  color: white;
+}
+#h3{
+  color: white;
+  font-family: cursive;
+  font-size: 25px;
+}
+#a4{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+#a5{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+#a6{
+  font-size: 25px;
+  font-family: cursive;
+  color: white
+}
+@font-face {
+  font-family: funFont;
+  src: url(Oswald-Regular.ttf);
+}
